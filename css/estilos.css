@@ -1,0 +1,45 @@
+body {
+	font-family: 'Verdana', sans-serif;
+	font-color: #000000;
+}
+img[class="foto_perfil"]{
+    width:180px; 
+    height:200px;
+    float: right;
+}
+h1{
+	text-align: left;
+    margin-left: 300px;
+}
+ul[class="lists"]
+{
+	list-style-type:none;
+}
+div[class="academicos"]{
+
+    width: 100%;
+    float: left;
+}
+div[class="laborales"]{
+
+    width: 100%;
+    float: left;
+}
+div[class="conocimientos"]{
+
+    width: 100%;
+    float: left;
+}
+
+div[class="datos"]
+{
+    width: 25%;
+    float: left;
+}
+
+div[class="descripcion"]{
+
+    width: 100%;
+    float: initial;
+    margin-top: 36px;
+}
